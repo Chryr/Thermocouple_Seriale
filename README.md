@@ -1,9 +1,7 @@
 # Thermocouple_Seriale
 ***29/01/2019***
 
-Lettura dei valori di temperatura in gradi Centigradi con il Sensore Di Thermocoppia (MAX6675ISA)
-
-Con Codice Arduino Per il Funzionamento
+Lettura dei valori di temperatura in gradi Centigradi con il Sensore Di Thermocoppia (MAX6675ISA), con Codice Arduino Per il Funzionamento
 
 ***31/01/2018***
 
